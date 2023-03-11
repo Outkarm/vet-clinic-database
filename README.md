@@ -42,6 +42,8 @@ In this project, you will use a relational database to create the initial data s
 
 ## 🛠 Built With <a name="built-with"></a>
 
+- PostgreSQL
+
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
