@@ -34,11 +34,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [] <a name="about-project">Vet Clinic</a>
+# 📖 <a name="about-project">Vet Clinic</a>
 
 In this project, you will use a relational database to create the initial data structure for a vet clinic. You will create a table to store animals' information, insert some data into it, and query it.
 
-**[Vet_Clinic]** is a...
+**[Vet_Clinic]** is a database that holds a tabulated data for a vet clinic
 
 ## 🛠 Built With <a name="built-with"></a>
 
